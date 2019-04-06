@@ -1,6 +1,6 @@
 {
     "name": "logikinc/laravel-datatables-mongodb",
-    "description": "Laravel DataTables plugin to support Mongodb",
+    "description": "Laravel 5.8 DataTables plugin to support Mongodb",
     "keywords": [
         "laravel",
         "dataTables",
